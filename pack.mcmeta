@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "description": {
+      "text": "Minecraft 24w20a",
+      "type": "text"
+    },
+    "pack_format": 44,
+    "supported_formats": {
+      "min_inclusive": 44,
+      "max_inclusive": 44
+    }
+  }
+}
